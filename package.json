@@ -1,0 +1,17 @@
+{
+  "name": "javascript",
+  "version": "0.0.1",
+  "description": "JavaScript Basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "testIndex.js"
+  },
+  "keywords": [
+    "JavaScript",
+    "Basics",
+    "JS-Basics",
+    "JS"
+  ],
+  "author": "Boris Vukovic",
+  "license": "ISC"
+}
